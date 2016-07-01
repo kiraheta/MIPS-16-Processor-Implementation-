@@ -1,5 +1,3 @@
-// Code your design here
-// Code your design here
 module CPU( clk, rst );
 
 	input clk;
