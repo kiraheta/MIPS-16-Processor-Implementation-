@@ -1,10 +1,3 @@
-// Code your testbench here
-// or browse Examples
-/*
-	Leave the tb_CPU unchanged, 
-	you should not have to change anything here.
-*/
-
 module tb_CPU; 
 	reg clk;
  	reg rst;
