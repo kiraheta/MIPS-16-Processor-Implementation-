@@ -1,4 +1,4 @@
-// Load instructions ought to be in here
+// Load instructions 
 0010010000001001	// addi r1, 9
 0010100000000011	// addi r2, 3
 0000110010000010	//  add r3, r1, r2
